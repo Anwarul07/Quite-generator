@@ -1,0 +1,1 @@
+console.log("Quite can change your life ")
